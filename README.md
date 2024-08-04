@@ -1,7 +1,7 @@
 # Movie Analysis Project
 
 Overview
-This project involves analyzing a dataset of 3,000 movies to provide insights into profitability, genre preferences, and actor performance. The analysis includes determining the highest profit movies, exploring the return on investment (ROI) by genre, and identifying successful actors and directors.
+This project involves analyzing a dataset of movies to provide insights into profitability, genre preferences, and actor performance. The analysis includes determining the highest profit movies, exploring the return on investment (ROI) by genre, and identifying successful actors and directors.
 
 Dataset
 The dataset used in this project includes various details about movies, such as:
